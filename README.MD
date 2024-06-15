@@ -1,6 +1,6 @@
 # Minimalist CV
 
-<p align="center">
+<p>
 Este proyecto está inspirado en el trabajo de Bartosz Jarocki y Midudev. Todos los derechos de autor corresponden a sus respectivos dueños.
 </p>
 <p>
