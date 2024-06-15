@@ -25,7 +25,7 @@ corepack prepare pnpm@latest --activate
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/BartoszJarocki/cv.git
+   git clone https://github.com/user-sysc/minimalist-cv.git
    ```
 
 2. Move to the cloned directory
