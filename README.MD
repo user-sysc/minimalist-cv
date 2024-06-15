@@ -1,9 +1,5 @@
 # Minimalist CV
 
-<div align="center">
-<h2>
-    Minimalist CV
-</h2>
 <p>
 Este proyecto está inspirado en el trabajo de Bartosz Jarocki y Midudev. Todos los derechos de autor corresponden a sus respectivos dueños.
 </p>
@@ -13,8 +9,6 @@ Este proyecto está inspirado en el trabajo de Bartosz Jarocki y Midudev. Todos 
 <p>
    Código inspirado por <a href="https://github.com/midudev/minimalist-portfolio-json">Midudev</a>
 </p>
-
-</div>
 
 ## Usage
 
@@ -26,15 +20,13 @@ corepack enable
 corepack prepare pnpm@latest --activate
 ```
 
-# Getting Started Locally
+## Getting Started Locally
 
-1. Clone this repository to your local machine:
+1. Clone this repository:
 
    ```bash
    git clone https://github.com/BartoszJarocki/cv.git
    ```
-
-````
 
 2. Move to the cloned directory
 
@@ -55,4 +47,3 @@ corepack prepare pnpm@latest --activate
    ```
 
 5. Abre el archivo [Config file](./cv.json) para crear tu propio Portafolio/CV imprimible.
-````
