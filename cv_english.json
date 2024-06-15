@@ -1,68 +1,48 @@
 {
   "basics": {
-    "name": "Miguel Ángel Durán",
-    "label": "Full-Stack developer with more than 15 years of experience & development content creator",
-    "image": "/me.webp",
-    "email": "miduga@gmail.com",
-    "phone": "+34 688888888",
-    "url": "https://midu.dev",
-    "summary": "+15 years of experience as a web developer. Currently I am a content creator and development dommunicator. I live in Barcelona, Spain. I have worked in different environments: from accelerating the development of start-ups to leading teams in multinational companies.",
+    "name": "Julio C. Ríos Maldonado",
+    "label": "Senior Developer & Estudiante de Ingeniería de Sistemas",
+    "image": "/file.webp",
+    "email": "riosjulio117@gmail.com",
+    "phone": "+57 3225322896",
+    "url": "https://github.com/user-sysc",
+    "summary": "Estudiante de Ingeniería de Sistemas con una sólida formación en desarrollo web y programación. Actualmente profundizando mis conocimientos en tecnologías frontend y backend, y participando activamente en proyectos que me permiten aplicar y expandir mis habilidades técnicas y blandas. Con un fuerte interés en contribuir a la comunidad tecnológica a través de la colaboración y el aprendizaje continuo.",
     "location": {
       "address": "",
-      "postalCode": "08820",
-      "city": "el Prat de Llobregat",
-      "countryCode": "ES",
-      "region": "Spain"
+      "postalCode": "",
+      "city": "V/par",
+      "countryCode": "CO",
+      "region": "Colombia"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "midudev",
-        "url": "https://linkedin.com/in/midudev"
+        "username": "julio-ríos",
+        "url": "https://www.linkedin.com/in/julio-ríos-11336b245"
       },
       {
         "network": "X",
-        "username": "midudev",
-        "url": "https://x.com/midudev"
+        "username": "Juliocrm_",
+        "url": "https://x.com/Juliocrm_"
       },
       {
         "network": "GitHub",
-        "username": "midudev",
-        "url": "https://github.com/midudev"
+        "username": "user-sysc",
+        "url": "https://github.com/user-sysc"
       }
     ]
   },
   "work": [
     {
-      "name": "midudev",
-      "position": "Web programming communicator",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2021-01-01",
-      "endDate": null,
-      "summary": "Most watched development streamer in Spanish on Twitch. +1 million followers across all my social networks. Recognised by Google, Microsoft and GitHub for my impact on the development community.",
+      "name": "Agente Biométrico",
+      "position": "Agente Biométrico para Elecciones",
+      "startDate": "2021-07-09",
+      "endDate": "2021-07-10",
+      "summary": "Trabajé como agente biométrico para elecciones, desempeñando funciones relacionadas con la identificación y verificación de votantes a través de tecnologías biométricas.",
       "highlights": [
-        "Started the company"
-      ]
-    },
-    {
-      "name": "Adevinta",
-      "position": "Lead Frontend Architect",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2016-06-01",
-      "endDate": "2022-09-01",
-      "summary": "I led a technical convergence between different products and migrated from a monolithic architecture to a more flexible and optimised one. I fostered best practices and performance culture improvements, as well as rapid delivery of value to users.",
-      "highlights": [
-        "Started the company"
-      ]
-    },
-    {
-      "name": "Hubii",
-      "position": "Senior FrontEnd Developer",
-      "startDate": "2011-03-01",
-      "endDate": "2016-05-01",
-      "summary": "I developed a geolocated news platform and an API to consume the information. Scaled services to support the load of over hundreds of thousands of requests per day. Cut delivery times and deployments to production by half. Collaborated with Mozilla and Telefónica to develop the first FirefoxOS TV app.",
-      "highlights": [
-        "Started the company"
+        "Identificación y verificación de votantes",
+        "Uso de tecnologías biométricas",
+        "Participación en procesos electorales"
       ]
     }
   ],
@@ -78,16 +58,26 @@
     ]
   }],
   "education": [{
-    "institution": "Universitat Oberta de Catalunya",
-    "url": "https://www.uoc.edu/portal/es/index.html",
-    "area": "Software Engineer",
+    "institution": "Universidad Popular del Cesar",
+    "url": "https://www.unicesar.edu.co",
+    "area": "Ingeniería de Sistemas",
     "studyType": "Bachelor",
-    "startDate": "2003-01-01",
-    "endDate": "2009-01-01",
+    "startDate": "2022-03-07",
+    "endDate": null,
     "score": "4.0",
     "courses": [
       "DB1101 - Basic SQL"
     ]
+  },
+  {
+    "institution": "Institución Educativa CASD Simón Bolívar",
+    "url": null,
+    "area": "Bachillerato",
+    "studyType": "High School",
+    "startDate": "2011-02-05",
+    "endDate": "2021-11-02",
+    "score": "4.0",
+    "courses": []
   }],
   "awards": [{
     "title": "Award",
@@ -111,81 +101,74 @@
   "skills": [
     {
       "name": "HTML",
-      "level": "Master",
+      "level": "Intermedio",
       "keywords": [
-        "Web development", "Frontend"
+        "Desarrollo Web", "Frontend"
       ]
     },
     {
       "name": "CSS",
-      "level": "Master",
+      "level": "Basic",
       "keywords": [
-        "Web development", "Frontend", "Diseño Responsive"
+        "Desarrollo Web", "Frontend"
       ]
     },
     {
       "name": "JavaScript",
-      "level": "Master",
+      "level": "Intermedio",
       "keywords": [
-        "Web development", "Frontend", "Backend", "Fullstack"
-      ]
-    },
-    {
-      "name": "Tailwind",
-      "level": "Advanced",
-      "keywords": [
-        "Web development", "Frontend", "CSS Framework", "Diseño Responsive"
-      ]
-    },
-    {
-      "name": "TypeScript",
-      "level": "Advanced",
-      "keywords": [
-        "Web development", "Frontend", "Backend", "JavaScript Superset"
+        "Desarrollo Web", "Frontend", "Backend"
       ]
     },
     {
       "name": "Node",
-      "level": "Advanced",
+      "level": "Intermedio",
       "keywords": [
-        "Web development", "Backend", "JavaScript", "Servidor"
+        "Desarrollo Web", "Backend", "JavaScript", "Server"
       ]
     },
     {
       "name": "MySQL",
-      "level": "Advanced",
+      "level": "Intermedio",
       "keywords": [
-        "Bases de Datos", "SQL", "Database", "Backend"
+        "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
       ]
     },
     {
       "name": "Git",
-      "level": "Advanced",
+      "level": "Intermedio",
       "keywords": [
-        "Version control", "Colaboración", "Source code"
+        "Control de Versiones", "Colaboración", "Código Fuente"
       ]
     },
     {
       "name": "GitHub",
-      "level": "Advanced",
+      "level": "Intermedio",
       "keywords": [
-        "Version control", "Collaboration", "Source code", "Git"
-      ]
-    },
-    {
-      "name": "Next.js",
-      "level": "Advanced",
-      "keywords": [
-        "Web development", "Frontend", "React Framework", "SSR", "Static Generation"
+        "Control de Versiones", "Colaboración", "Código Fuente", "Git"
       ]
     },
     {
       "name": "React",
-      "level": "Advanced",
+      "level": "Basic",
       "keywords": [
-        "Web development", "Frontend", "JavaScript Library", "UI"
+        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
       ]
-    }
+    },
+    {
+      "name": "Python",
+      "level": "Basic",
+      "keywords": [
+        "Desarrollo Web", "Backend"
+      ]
+    },
+    {
+      "name": "Linux",
+      "level": "Intermedio",
+      "keywords": [
+          "Shell Scripting","Desarrollo de Software en entornos Linux"
+      ]
+  }
   ],
   "languages": [
     {
@@ -194,7 +177,7 @@
     },
     {
       "language": "English",
-      "fluency": "Advanced"
+      "fluency": "Basic"
     }
   ],
   "interests": [{
@@ -210,66 +193,24 @@
   }],
   "projects": [
     {
-      "name": "mars.codes",
-      "isActive": true,
-      "description": "Interactive story with programming challenges to travel to Mars",
+      "name": "Walletgo",
+      "isActive": false,
+      "description": "Gestor personal de ingresos y egresos diseñado para Manejar tus gastos diarios de Manera eficiente y organizada.",
       "highlights": [
-        "Choose your own adventure",
-        "In progress"
+        "Control de gastos diarios",
+        "Gestión de ingresos y egresos"
       ],
-      "url": "https://mars.codes"
-    },
-    {
-      "name": "AdventJS",
-      "isActive": true,
-      "description": "JavaScript programming challenges for every day of December until Christmas",
-      "highlights": [
-        "+1 million visits",
-        "Multilanguage",
-        "JavaScript & TypeScript"
-      ],
-      "url": "https://advent.js/dev"
-    },
-    {
-      "name": "Codember",
-      "isActive": true,
-      "description": "Interactive programming game with challenges and secrets",
-      "highlights": [
-        "+2000 active users",
-        "Challenges for any language"
-      ],
-      "url": "https://codember.dev"
-    },
-    {
-      "name": "codi.link",
-      "isActive": true,
-      "description": "Playground of HTML, CSS and JavaScript code for sharing",
-      "highlights": [
-        "100k monthly visit",
-        "Developed by the community"
-      ],
-      "url": "https://codi.link",
       "github": "https://github.com/midudev/codi.link"
     },
     {
-      "name": "Pruebas Técnicas",
-      "isActive": true,
-      "description": "List of technical tests of companies to practice programming",
+      "name": "TaskManager",
+      "isActive": false,
+      "description": "TaskManager es un gestor de tareas diarias diseñado para Mejorar tu productividad y organización.",
       "highlights": [
-        "100% free",
-        "+500 community solutions"
+        "Organización de tareas",
+        "Actividades diarias"
       ],
-      "url": "https://pruebastecnicas.com",
-      "github": "https://github.com/midudev/pruebas-tecnicas"
-    },
-    {
-      "name": "miduConf",
-      "description": "Streaming programming conference for the Spanish-speaking community with top talks",
-      "highlights": [
-        "+15k tickets handed over",
-        "+50k live viewers"
-      ],
-      "url": "https://miduconf.com"
+      "github": "https://github.com/user-sysc/mern-project-walletgo"
     }
   ]
 }

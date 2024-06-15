@@ -5,7 +5,7 @@
     "image": "/file.webp",
     "email": "riosjulio117@gmail.com",
     "phone": "+57 3225322896",
-    "url": "https://midu.dev",
+    "url": "https://github.com/user-sysc",
     "summary": "Estudiante de Ingeniería de Sistemas con una sólida formación en desarrollo web y programación. Actualmente profundizando mis conocimientos en tecnologías frontend y backend, y participando activamente en proyectos que me permiten aplicar y expandir mis habilidades técnicas y blandas. Con un fuerte interés en contribuir a la comunidad tecnológica a través de la colaboración y el aprendizaje continuo.",
     "location": {
       "address": "",
@@ -34,14 +34,15 @@
   },
   "work": [
     {
-      "name": null,
-      "position": null,
-      "url": null,
-      "startDate": null,
-      "endDate": null,
-      "summary": null,
+      "name": "Agente Biométrico",
+      "position": "Agente Biométrico para Elecciones",
+      "startDate": "2021-07-09",
+      "endDate": "2021-07-10",
+      "summary": "Trabajé como agente biométrico para elecciones, desempeñando funciones relacionadas con la identificación y verificación de votantes a través de tecnologías biométricas.",
       "highlights": [
-        null
+        "Identificación y verificación de votantes",
+        "Uso de tecnologías biométricas",
+        "Participación en procesos electorales"
       ]
     }
   ],
