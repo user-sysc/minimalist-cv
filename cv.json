@@ -205,12 +205,22 @@
     {
       "name": "TaskManager",
       "isActive": false,
-      "description": "TaskManager es un gestor de tareas diarias diseñado para Mejorar tu productividad y organización.",
+      "description": "Gestor de tareas diarias diseñado para Mejorar tu productividad y organización.",
       "highlights": [
         "Organización de tareas",
         "Actividades diarias"
       ],
       "github": "https://github.com/user-sysc/mern-project-walletgo"
-    }
+    },
+    {
+      "name": "Findapet",
+      "isActive": false,
+      "description": "Aplicación diseñada para ayudar a conectar personas que buscan o han encontrado mascotas perdidas, fomentando el rescate y la adopción responsable.",
+      "highlights": [
+        "Conexión entre dueños y rescatistas",
+        "Adopción responsable"
+      ],
+      "github": "https://github.com/JormanNoriega/Findapet"
+    }    
   ]
 }
